@@ -34,5 +34,5 @@ Licence: Public Domain
 ### References ###
 http://sebsauvage.net/streisand.me/
 http://bohwaz.net/p/Auto-blog-VroumVroumBlog-et-effet-Streisand
-http://http://streisand.me/
+http://streisand.me/
 
