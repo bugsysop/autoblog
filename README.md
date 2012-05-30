@@ -22,8 +22,8 @@ This is a very simple tool which replicates articles from another blog. If the s
 ### Credit ###
 *	The autoblog original concept is an idea of Mitsukarenai (aka Arkados), the webmaster of fansub-streaming.eu
 *	The initial version of VroumVroumBlog was made by an anonymous.
-*	The v.1 (no database) of VroumVroumBlog was made by Sebsauvage.
-*	The v.2 (SQLite) of VroumVroumBlog was made by Bohwaz
+*	The v0.1 (no database) of VroumVroumBlog was made by Sebsauvage.
+*	The v0.2 (SQLite) of VroumVroumBlog was made by Bohwaz
 
 Licence: Public Domain
 
