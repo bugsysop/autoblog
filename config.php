@@ -38,4 +38,9 @@ function __($str)
     }
 }
 
+// Fancy URLs - Create the .htaccess file in the root directory and uncomment
+// define('LOCAL_URI', '');
+// Mirrors Farm install - Read the documentation for detailed instructions
+// define('ROOT_DIR', dirname($_SERVER['SCRIPT_FILENAME']));
+
 ?>
