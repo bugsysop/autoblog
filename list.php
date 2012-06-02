@@ -70,7 +70,7 @@ while ($file = $dir->read())
             </div>
             <div class="content">
                 <ul>
-                    <li><a href="'.escape($file).'/">Auto-blog</a></li>
+                    <li><a href="'.escape($file).'/">Autoblog</a></li>
                     <li><a href="'.escape($file).'/vvb.ini">Configuration</a></li>
                 </ul>
             </div>
@@ -82,7 +82,7 @@ $dir->close();
 
 echo '
 <div class="footer">
-    Download <a href="source.txt">source code</a>
+    Download <a href="https://github.com/bugsysop/autoblot">Source Code</a>
 </div>
 </body>
 </html>';
